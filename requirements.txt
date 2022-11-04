@@ -1,2 +1,3 @@
 pyclustertend==1.8.0
 yellowbrick
+xgboost==1.7.0
